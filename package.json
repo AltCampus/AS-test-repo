@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "AS TEST REPO",
   "scripts": {
-    "test": "jest"
+    "test": "jest block01/index.test.js"
   },
   "dependencies": {
     "jest": "^26.0.1"
